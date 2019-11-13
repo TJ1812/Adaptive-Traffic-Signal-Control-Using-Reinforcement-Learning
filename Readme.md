@@ -16,7 +16,7 @@ pip install tensorflow
 ```
 pip install tensorflow-gpu
 ```
-Keras
+Keras -
 ```
 pip install keras
 ```
